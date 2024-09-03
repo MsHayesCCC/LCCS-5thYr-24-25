@@ -1,6 +1,6 @@
 # Author: Ms Hayes
 # Date: Sept 2024
-# Description: Textbook Chapter 3 Tasks
+# Description: Textbook Chapter 1 Tasks Pg 12
 # Task 3: Using ordinary characters and special characters, write the code to create a pattern
 # in the shape of:
 # - a face
